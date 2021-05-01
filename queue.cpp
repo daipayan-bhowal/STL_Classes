@@ -1,7 +1,7 @@
 /*#include <iostream>
 using namespace std;*/
 
-// Implementing STL Queue class */
+// Implementing STL Queue class 
 template <typename T>
 class queue {
 public:
